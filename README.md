@@ -33,7 +33,7 @@ Proyek PCB **running LED** (lampu LED berjalan) yang dirancang di **KiCad**. Sin
 
 ### Layout PCB
 
-![Layout PCB Running LED](images/pcb-layout.png)
+[![Layout PCB Running LED](images/pcb-layout.png)](https://github.com/taufiqur0876-cell/RUNNING-LED/blob/87360333684bfec03fee3c9e0bfeeecba2b42bd3/pcb-layout.png)
 
 ## Struktur Repositori
 
